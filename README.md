@@ -29,7 +29,8 @@ Implement a sample CRUD app (Task manager, employee CRUD ... ) you are free to c
 
   
 
-## **Bonus ++ :**
+## **Bonus ++ :** 
+The bonus part if you want extras points, if you don't have time for it, its cool ;) , we need you to focus more on the first part  
 
   
 
