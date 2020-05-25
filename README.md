@@ -1,1 +1,53 @@
 # fs-task
+
+
+## **Task:**
+
+  
+
+Implement a sample CRUD app (Task manager, employee CRUD ... ) you are free to choose, make sure you're respecting the following:
+
+**Commit your app in a GitHub repo, and share the link with Otman** 
+  
+
+- ReactJs as a front-end framework (use create-react-app)
+
+	- The app will consume a Rest API
+
+	- Make sure you're using the context API  (no redux)
+
+	- Feel free to use any UI framework.
+
+- NodeJs/Express  as runtime env.
+
+- Make Sure you're using:
+
+	- Modules.
+
+	- minimal proper MVC architecture
+
+	- simple pagination implementation
+
+- MySQL as a database
+
+  
+
+## **Bonus ++ :**
+
+  
+
+- You can add a filter (to filter over you fetched data)
+
+- Use at least one design pattern.
+
+- Implement a cash system (using redis , or service workers ...)
+
+- Add offline mode feature.
+
+- Add a dark mode feature
+
+- Add some unit tests (you're a free to choose ay framework)
+
+- You can use a linter
+
+- Host the app
