@@ -48,3 +48,12 @@ Implement a sample CRUD app (Task manager, employee CRUD ... ) you are free to c
 - You can use a linter
 
 - Host the app
+
+
+PS: 
+
+- the work need to be done in 3 days
+- feel free to ask any question 
+
+
+Good luck 
